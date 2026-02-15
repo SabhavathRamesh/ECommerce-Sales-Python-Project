@@ -15,7 +15,7 @@
 → **Libraries :** Pandas, NumPy, Matplotlib, Seaborn, Calendar  
 → **Techniques :** GroupBy aggregation, time-series analysis, profit margin formula, ratio analysis  
 → **Visualization :** Multi-bar charts, labeled charts, saved business-ready PNG reports  
-→ **Metrics Used :** Total Sales, Profit, Monthly Growth, Category Ranking, Segment Margin# ECommerce-Sales-Python-Project
+→ **Metrics Used :** Total Sales, Profit, Monthly Growth, Category Ranking, Segment Margin.
 
 ### 📊 Statistical Results
 
