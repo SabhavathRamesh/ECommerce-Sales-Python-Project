@@ -11,7 +11,7 @@
 → **Visualization :** Multi-bar charts, labeled charts, saved business-ready PNG reports  
 → **Metrics Used :** Total Sales, Profit, Monthly Growth, Category Ranking, Segment Margin.
 
-#### 🎯 **Click here to explore Grphs 👉🏻 [ECommerce Statistical Visualizations ↗](https://github.com/SabhavathRamesh/ECommerce-Sales-Python-Project/blob/main/Statistical%20Visualization%E2%9C%94%EF%B8%8F.docx.pdf)**
+#### 🎯 **Click here to explore Static-Graphs 👉🏻 [ECommerce Statistical Visualizations ↗](https://github.com/SabhavathRamesh/ECommerce-Sales-Python-Project/blob/main/Statistical%20Visualization%E2%9C%94%EF%B8%8F.docx.pdf)**
 
 ### 📈 Key Findings & Trends
 * Strong seasonal spike in Q4 (Oct–Dec) across all years.
