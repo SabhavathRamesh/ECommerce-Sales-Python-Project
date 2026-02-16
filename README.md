@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales Analysis – Python Project Summary
+##  🛒 E-Commerce Sales Analysis – Python Project Summary
 ### 🎯 Objectives of this project
 
 * Analyzed 9,994 Superstore transactions (2014–2017) to evaluate sales, profit, and customer segment performance.
@@ -19,7 +19,9 @@
 
 ### 📊 Statistical Results
 
-→ **Total Sales :** ≈ ₹2.29M | Total Profit: ≈ ₹286K | Avg Profit Margin: ~12.5%  
+→ **Total Sales :** ≈ ₹2.29M      
+→ Total Profit: ≈ ₹286K           
+→ Avg Profit Margin: ~12.5%  
 → **Highest Sales Month :** November (Q4 peak) | Lowest: February  
 → **Top Category :** Technology (~36% of total sales) | Top Sub-Category: Phones
 
@@ -28,8 +30,12 @@
 
 ### 🏆 Achievements
 
-* Engineered time-based features (Month, Year, Day) for time-series analysis.
-* Built monthly aggregation framework and profit margin calculations.
-* Identified peak, low, and average performance patterns.
-* Created reusable visual reports (sales, profit, category, segment analysis).
+✔ Engineered time-based features (Month, Year, Day) for time-series analysis.        
+✔ Built monthly aggregation framework and profit margin calculations.           
+✔ Identified peak, low, and average performance patterns.   
+✔ Created reusable visual reports (sales, profit, category, segment analysis).
+
+
+_______________________________________________Developed by RAMESH SABHAVATH 👨🏼‍💻
+
 
